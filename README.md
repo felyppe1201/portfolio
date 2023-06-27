@@ -1,4 +1,5 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
+Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/felyppe1201/portfolio/blob/main/assets/site.png)
 
