@@ -11,6 +11,10 @@
 
 * Flex-box
 
+* JavaScript
+
+* Bibilotecas
+
 ## Feito por:
 
 ### Felyppe Marcelo da Silva
